@@ -646,13 +646,13 @@ if (isset($_POST['send'])) {
          </div> -->
 
       </div>
-      <form action="?" method="POST">
+      <!-- <form action="?" method="POST">
          <div id="html_element"></div>
          <br>
          <input type="submit" value="Submit">
       </form>
       <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer>
-      </script>
+      </script> -->
 
 
    </section>
